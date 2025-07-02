@@ -21,6 +21,9 @@ Para Ubuntu/Linux:
 
 3. CONFIGURACIÓN DEL ENTORNO VIRTUAL PYTHON:
 Cree el entorno virtual con:
+Para Windows:
+python -m venv env
+Para Ubuntu/Linux:
 python3 -m venv env
 
 Active el entorno:
